@@ -1,1 +1,1 @@
-# github-essemtial-v2
+# github-essential-v2
